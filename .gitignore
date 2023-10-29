@@ -1,1 +1,4 @@
 token.env
+*.pdf
+knowledge-base/
+venv/
